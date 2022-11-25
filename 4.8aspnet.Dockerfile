@@ -1,1 +1,1 @@
-FROM mcr.microsoft.com/dotnet/framework/aspnet:4.8-windowsservercore-ltsc2019
+FROM mcr.microsoft.com/dotnet/framework/aspnet:4.8.1-20221108-windowsservercore-ltsc2022
